@@ -31,4 +31,24 @@ Open IDE pom.xml file. Once dependicies are all found and loaded. Should be able
 
 ## How it works (so far)
 
-![Start Program](https://github.com/bnothern42/C-Sheet/blob/main/images/FirstOpen.JPG?raw=true)
+
+Start of Program: 
+
+![](https://github.com/bnorthern42/C-Sheet/blob/main/images/FirstOpen.JPG?raw=true)
+
+Import CSV file:
+
+![](https://github.com/bnorthern42/C-Sheet/blob/main/images/FileOpen_CSV.JPG?raw=true)
+
+Import XLSX file:
+
+![](https://github.com/bnorthern42/C-Sheet/blob/main/images/FileOpen_XLSX.JPG?raw=true)
+
+Click the next button after you are happy with both imports:
+
+![](https://github.com/bnorthern42/C-Sheet/blob/main/images/click_next_main.JPG?raw=true)
+
+Old window closes and a new one opens to set the merging options
+
+![](https://github.com/bnorthern42/C-Sheet/blob/main/images/starting_points_gui.JPG?raw=true)
+
