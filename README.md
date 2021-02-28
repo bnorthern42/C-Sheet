@@ -27,3 +27,8 @@ Will be in Github releases, simple run .jar file
 ## Build from source
 
 Open IDE pom.xml file. Once dependicies are all found and loaded. Should be able to run.
+
+
+## How it works (so far)
+
+![Start Program](https://github.com/bnothern42/C-Sheet/blob/main/images/FirstOpen.JPG?raw=true)
