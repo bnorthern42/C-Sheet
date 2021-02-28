@@ -1,3 +1,15 @@
+# WIP
+
+ToDo:
+
+* Add POI and logging dependencies
+* Get Spinner integers
+* Populate a Text spinner of available sheets and select one.
+* Create functions that will combine the CSV into XLSX 
+* Make actual Documentation
+* Make code pretty and not Spaghetti!
+
+
 # C-Sheet
 CSV-into-spreadSheet, takes a CSV file from the user and inputs it into an existing spreadsheet. Written in Java 11 using Maven
 
