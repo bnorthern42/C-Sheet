@@ -6,7 +6,7 @@ ToDo:
 * Get Spinner integers
 * Populate a Text spinner of available sheets and select one.
 * Create functions that will combine the CSV into XLSX 
-* Make actual Documentation
+* Make actual Documentation [here](https://bnorthern42.github.io/CSV-Merge-to-Excel/)
 * Make code pretty and not Spaghetti!
 
 
